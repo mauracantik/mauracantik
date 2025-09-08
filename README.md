@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maura 👋
 
-<!--
-**mauracantik/mauracantik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Entry & PHP Programmer**  
+📊 Teliti dalam menginput & mengelola data  
+📝 Mahir Microsoft Excel, Word, serta Google Sheets  
+⚡ Cepat belajar & mampu bekerja dengan deadline  
+🗄️ Familiar dengan **MySQL & phpMyAdmin** untuk pengolahan data  
+🌱 Sedang terus mengembangkan skill di bidang **web development & database management**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tech Stack
+- **Languages:** PHP, SQL, HTML, CSS  
+- **Database:** MySQL, phpMyAdmin  
+- **Tools:** Microsoft Excel, Word, Google Sheets, GitHub  
+
+---
+
+✨ *“Data is not just numbers, it’s a story waiting to be organized.”*
